@@ -8,7 +8,7 @@
 The Stack class maintains the history of visited pages with a backPages stack and a nextPages stack.
 
 ## To Open
-run <mark style="background-color: #FFFF00">node stack.js</mark> in your terminal.
+run <mark style="background-color: #005A80">node stack.js</mark> in your terminal.
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
